@@ -22,7 +22,7 @@ class gdkhan125:
         self.company     = "Independent / Software Engineer"
         self.university  = "Computer Science — BSCS / BSSE"
         self.location    = "Pakistan 🇵🇰"
-        self.email       = "your-email@gmail.com"
+        self.email       = "gdkhan0090@gmail.com"
 
     @property
     def current_focus(self) -> list[str]:
